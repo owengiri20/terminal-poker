@@ -1,0 +1,4 @@
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/notnil/joker v0.0.0-20200328232342-b092c3f48656 h1:4vjagAFYB5RJA63HHy43kT20JFo1U6br4aRt+e30qo0=
+github.com/notnil/joker v0.0.0-20200328232342-b092c3f48656/go.mod h1:L5exiHud096uwtrchd78AEl9F6JljBeMbsmVNhqRCVA=
